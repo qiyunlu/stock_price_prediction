@@ -36,7 +36,7 @@ wheel               0.32.3
 Train the RNN by using the stock price from 2013 to 2016 to predict the stock price of Jan 2017  
 ### First time
 Code: rnn.py  
-
+![](/result/first_prediction.png)  
 scaled mean squared error: 0.32343  
 
 
