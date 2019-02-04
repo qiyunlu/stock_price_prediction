@@ -1,0 +1,2 @@
+rnn: 0.32343
+rnn_optimized: 0.32273
