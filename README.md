@@ -1,5 +1,9 @@
 # stock_price_prediction
 The project predicts the real Google stock price by implementing LSTMs (Long Short Term Memory RNNs).  
+
+## Archive Note
+This project is no longer actively maintained. The latest version of the project is v0.1.0-alpha, which was last updated on Feb 3, 2019.
+
 ### Python packages
 absl-py             0.7.0  
 astor               0.7.1  
